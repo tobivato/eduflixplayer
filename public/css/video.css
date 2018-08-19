@@ -1,0 +1,54 @@
+
+#video_player_box{
+  overflow: hidden;
+  margin: 0px auto;
+  width: 800px;
+  border-style: solid;
+
+}
+#ff{
+  height: 150px;
+
+}
+div p{
+  border-style: solid;
+
+}
+
+#video{
+  float: left;
+  width: 50%;
+
+
+
+}
+
+#video_sub{
+margin-left: 400px;
+width: 50%;
+
+
+}
+
+#video_control_bar{
+
+background-color: #333;
+padding: 1px;
+height: 30px;
+width: 100%;
+margin-top: 110px;
+
+}
+
+#seekslider{
+  width: 550px;
+}
+#playpausebtn{
+  background-color: #FF4747;
+}
+#curtimetext{
+  color: white;
+}
+#durtimetext{
+  color: white;
+}
